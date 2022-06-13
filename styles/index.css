@@ -1,0 +1,13 @@
+#navbar{
+    display: flex;
+    justify-content: space-evenly;
+  
+  
+}
+
+
+
+#user-form{
+    display: flex;
+     justify-content: space-between;
+}
